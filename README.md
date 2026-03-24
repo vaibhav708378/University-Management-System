@@ -23,7 +23,7 @@ A Java-based application designed to manage and automate university operations s
 
 ## ⚙️ Installation
 1. Clone the repository:
-   git clone https://github.com/your-username/university-management-system.git
+   git clone https://github.com/vaibhav708378/university-management-system.git
 
 2. Open the project in your IDE (Eclipse/IntelliJ).
 
